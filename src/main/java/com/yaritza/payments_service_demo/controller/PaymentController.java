@@ -1,4 +1,4 @@
-package com.yaritza.payments_service_demo;
+package com.yaritza.payments_service_demo.controller;
 
 import org.springframework.web.bind.annotation.*;
 import org.springframework.http.ResponseEntity;
